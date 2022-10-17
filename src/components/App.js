@@ -9,7 +9,7 @@ import SubmitButton from "../components/SubmitButton.js";
 const App = () => {
   return (
     <div id="main">
-     <Heading />      
+      <Heading />      
       <SubHeading />
       <InputQuery />
       <SubmitButton />
